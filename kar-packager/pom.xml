@@ -33,6 +33,7 @@
 
   <scm>
     <url>https://github.com/adamcin/tycho-karaf-bridge.git</url>
+    <developerConnection>scm:git:git@github.com:adamcin/tycho-karaf-bridge.git</developerConnection>
     <connection>scm:git:https://github.com/adamcin/tycho-karaf-bridge.git</connection>
     <tag>HEAD</tag>
   </scm>
